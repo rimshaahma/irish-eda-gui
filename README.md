@@ -12,7 +12,7 @@ This project is a GUI-based application for performing Exploratory Data Analysis
 
 Here is the screenshot of the GUI:
 
-![Output Screenshot](output.png)
+![Output Screenshot](output.PNG)
 
 ## How to Run
 
